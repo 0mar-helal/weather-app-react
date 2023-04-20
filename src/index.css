@@ -1,13 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800&family=Tajawal:wght@400;500;700;800&display=swap');
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Nunito', sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.navbar-brand {
+  color:white !important;
+}
+
+.App {
+  background: linear-gradient(#ffefd5,#fff);
+  height: 100vh;
+  overflow: hidden;
+}
+
+.search-city-content , .weather-content {
+  background-color: white;
+  box-shadow: rgb(85, 85, 85) 0px 3px 6px 0px;
+  max-width: 400px; 
+}
+
+.my-btn {
+  background-color: black;
+  color: white;
+  border: none;
+}
+
+input.form-control:focus{
+    outline: none;
+    border: 1px solid black;
+    box-shadow: none;
+}
+
+.weather-img {
+  height:100px;
+  width:100px;
+}
+
+.loader-img {
+  width: 200px;
+  height: 200px;
+}
+.not-found-img {
+  width: 200px;
+  height: 150px;
 }
