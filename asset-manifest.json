@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/weather-app-react/static/css/main.fd5a2d54.css",
+    "main.js": "/weather-app-react/static/js/main.65348d72.js",
+    "static/js/787.d9312eb8.chunk.js": "/weather-app-react/static/js/787.d9312eb8.chunk.js",
+    "static/media/cloud.png": "/weather-app-react/static/media/cloud.a2e5ea16a53294e0d074.png",
+    "static/media/sad-cloud.png": "/weather-app-react/static/media/sad-cloud.c818a37aeb7e0d69a10a.png",
+    "static/media/temp.svg": "/weather-app-react/static/media/temp.aa23671839421e76dfa90a9961fd9391.svg",
+    "static/media/storm.svg": "/weather-app-react/static/media/storm.7741b2c59e4d8a8455a8f361dd40f6b3.svg",
+    "static/media/wind.svg": "/weather-app-react/static/media/wind.d35fef2c23fb5eafc725e7a827b71ad1.svg",
+    "static/media/cloudy.svg": "/weather-app-react/static/media/cloudy.755396fe9ea9bce47cc56db9cb62bcbf.svg",
+    "static/media/rain-night.svg": "/weather-app-react/static/media/rain-night.bcabe4fb05ffe1430abeb9e116c38be9.svg",
+    "static/media/perfect-day.svg": "/weather-app-react/static/media/perfect-day.5156c281246d81a762a8260c9c6580a9.svg",
+    "static/media/rain.svg": "/weather-app-react/static/media/rain.efd4d66c9f8c4fbd6cd155d32517027f.svg",
+    "static/media/cloudy-night.svg": "/weather-app-react/static/media/cloudy-night.bdd63c6af99e41b7f0c38dc5097cc6ce.svg",
+    "static/media/humidity.svg": "/weather-app-react/static/media/humidity.38d0c2ffd0864734b756d5a350e2c8b7.svg",
+    "static/media/pressure.svg": "/weather-app-react/static/media/pressure.37f0a961576085d4c48f4d3e8e6561dc.svg",
+    "static/media/mist.svg": "/weather-app-react/static/media/mist.4266ba939da0311c76bcf98a7a3a2525.svg",
+    "static/media/smoke.svg": "/weather-app-react/static/media/smoke.29ba959ceadbfb8970fbab6396040695.svg",
+    "static/media/day.svg": "/weather-app-react/static/media/day.c5cf49fb1a2d32044f621a5fcb077e1c.svg",
+    "static/media/night.svg": "/weather-app-react/static/media/night.cc9b9fc29f2181b377fa91d5f6a53d14.svg",
+    "index.html": "/weather-app-react/index.html",
+    "static/media/sunny.svg": "/weather-app-react/static/media/sunny.bbbee7775a4a1ff7a891a5428310b858.svg",
+    "main.fd5a2d54.css.map": "/weather-app-react/static/css/main.fd5a2d54.css.map",
+    "main.65348d72.js.map": "/weather-app-react/static/js/main.65348d72.js.map",
+    "787.d9312eb8.chunk.js.map": "/weather-app-react/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd5a2d54.css",
+    "static/js/main.65348d72.js"
+  ]
+}
