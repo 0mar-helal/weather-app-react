@@ -3,9 +3,6 @@
 ## 📌 Live Demo
 https://weather-app-react-x4t1.onrender.com
 
-# React Weather App - ReactJS Projects
-
-
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
 
@@ -29,10 +26,10 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://github.com/0mar-helal/netflix-clone-react.git
+$ https://github.com/0mar-helal/weather-app-react.git
 
 # Go into the repository
-$ cd netflix-clone-react
+$ cd weather-app-react
 
 # Remove current origin repository
 $ git remote remove origin
